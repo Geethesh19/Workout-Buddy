@@ -34,9 +34,11 @@ This repository contains the code for a full-stack workout buddy application, bu
 
 Below are some screenshots to give you an idea of the application's interface and functionality:
 
-[Workout Buddy Home](https://drive.google.com/uc?export=view&id=1aN_9zVQ3AtoI-Sazl951i55-GfUs9OPh)
-[Workout Buddy GitHub Picture](https://drive.google.com/uc?export=view&id=1hAfezDaol5xcNOG8H4W1t3bh6kcimHD2)
+### Workout Buddy Home
+![Workout Buddy Home](https://drive.google.com/uc?export=view&id=1aN_9zVQ3AtoI-Sazl951i55-GfUs9OPh)
 
+### Workout Buddy GitHub Picture
+![Workout Buddy GitHub Picture](https://drive.google.com/uc?export=view&id=1hAfezDaol5xcNOG8H4W1t3bh6kcimHD2)
 ---
 
 ## Setup Instructions
@@ -85,13 +87,3 @@ Below are some screenshots to give you an idea of the application's interface an
    ```
 
 5. The server will run at `http://localhost:5000`.
-
-6. ## Screenshots
-
-Below are some screenshots to give you an idea of the application's interface and functionality:
-
-### Workout Buddy Home
-![Workout Buddy Home](https://drive.google.com/uc?export=view&id=1aN_9zVQ3AtoI-Sazl951i55-GfUs9OPh)
-
-### Workout Buddy GitHub Picture
-![Workout Buddy GitHub Picture](https://drive.google.com/uc?export=view&id=1hAfezDaol5xcNOG8H4W1t3bh6kcimHD2)
