@@ -2,15 +2,6 @@
 
 This repository contains the code for a full-stack workout buddy application, built using modern web technologies. The application allows users to track workouts, manage authentication, and offers a user-friendly interface.
 
-## Table of Contents
-
-- [Technologies Used](#technologies-used)
-- [Directory Structure](#directory-structure)
-- [Setup Instructions](#setup-instructions)
-  - [Client](#client)
-  - [Server](#server)
-- [Features](#features)
-
 ---
 
 ## Technologies Used
@@ -19,51 +10,6 @@ This repository contains the code for a full-stack workout buddy application, bu
 - **Backend**: Node.js, Express.js, MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
 - **State Management**: React Context API
-
----
-
-## Directory Structure
-
-```
-.:
-README.md  client  server
-
-./client:
-index.html  package-lock.json  package.json  public  src  vite.config.js
-
-./client/public:
-vite.svg
-
-./client/src:
-App.jsx  components  context  hooks  index.css  main.jsx  pages
-
-./client/src/components:
-Navbar.jsx  WorkoutDetails.jsx  WorkoutForm.jsx
-
-./client/src/context:
-authContext.jsx  workoutsContext.jsx
-
-./client/src/hooks:
-useAuthContext.jsx  useLogin.jsx  useLogout.jsx  useSignup.jsx  useWorkoutContext.jsx
-
-./client/src/pages:
-Home.jsx  Login.jsx  Signup.jsx
-
-./server:
-controllers  middleware  models  package-lock.json  package.json  routes  server.js
-
-./server/controllers:
-userControllers.js  workoutControllers.js
-
-./server/middleware:
-requireAuth.js
-
-./server/models:
-userModel.js  workoutModel.js
-
-./server/routes:
-User.js  workouts.js
-```
 
 ---
 
