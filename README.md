@@ -78,3 +78,11 @@ This repository contains the code for a full-stack workout buddy application, bu
 - **Middleware**: `requireAuth.js` for protecting workout-related routes.
 
 ---
+
+
+## Screenshots
+
+Below are some screenshots to give you an idea of the application's interface and functionality:
+
+[Workout Buddy Home](https://drive.google.com/uc?export=view&id=1aN_9zVQ3AtoI-Sazl951i55-GfUs9OPh)
+[Workout Buddy GitHub Picture](https://drive.google.com/uc?export=view&id=1hAfezDaol5xcNOG8H4W1t3bh6kcimHD2)
