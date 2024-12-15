@@ -39,6 +39,7 @@ Below are some screenshots to give you an idea of the application's interface an
 
 ### Workout Buddy GitHub Picture
 ![Workout Buddy GitHub Picture](https://drive.google.com/uc?export=view&id=1hAfezDaol5xcNOG8H4W1t3bh6kcimHD2)
+
 ---
 
 ## Setup Instructions
